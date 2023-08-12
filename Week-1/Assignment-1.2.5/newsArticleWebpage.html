@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>News Article Webpage</title>
+      <meta charset="utf-8">
+      <style type="text/css">
+         Html, body{
+         height:100%;
+         }
+         label{
+         font-size: 20px; 
+         }
+         h1 {
+         text-align: center;
+         }
+         .grandParentContaniner{
+         display:table; height:100%; margin: 0 auto;
+         }
+         .parentContainer{
+         display:table-cell; vertical-align:middle;
+         }
+      </style>
+   </head>
+   <body>
+      <!-- HTML Tables Header -->
+      <h1>News Article Webpage</h1>
+      <div class="grandParentContaniner">
+         <div class="parentContainer">
+            <form method="post" enctype="multipart/form-data">
+               <div>
+                  <label for="fullname">Full name:</label><br>
+                  <input type="text" id="fullname" name="fullname" size="50" required><br><br>
+               </div>
+               <div>
+                  <label for="email">Email:</label><br>
+                  <input type="text" id="email" name="email" size="50" required><br><br>
+               </div>
+               <div>
+                  <label for="about">About:</label><br>
+                  <textarea id="about" name="about" rows="3" cols="50" size="50"></textarea><br><br>
+               </div>
+               <div>
+                  <label for="picture">Upload your image:</label><br>
+                  <input type="file" id="picture" name="picture" size="50"><br><br>
+               </div>
+               <div>
+                  <input type="submit" value="Submit">
+               </div>
+            </form>
+         </div>
+      </div>
+   </body>
+</html>
