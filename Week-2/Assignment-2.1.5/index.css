@@ -1,0 +1,26 @@
+a {
+    margin-right: 10px;
+}
+
+img {
+    margin-bottom: 10px;
+}
+
+.checked {
+    color: orange;
+    font-size: 25px;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+label {
+    display: inline-block;
+    width: 150px;
+}
+
+select{
+    background: #D3D3D3;
+    width:180px;
+}
