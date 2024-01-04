@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+
+.giftForm {
+  display: flex;
+  justify-content:center;
+  margin-top: 50px;
+}
+
+input {
+  display: flex;
+  align-items: flex-start;
+}
+
+button {
+  margin-top:10px;
+}
+
+label {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  margin-left: 20px;
+}

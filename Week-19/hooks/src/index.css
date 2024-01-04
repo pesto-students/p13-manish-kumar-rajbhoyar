@@ -1,0 +1,65 @@
+h2, h3, p {
+  display: flex;
+  justify-content:center;
+}
+
+hr {
+  width: 40%;
+}
+
+.bookForm {
+  display: flex;
+  justify-content:center;
+}
+
+input {
+  display: flex;
+  align-items: flex-start;
+}
+
+input[type='button'] {
+  margin-top:10px;
+}
+
+button[type="button"] {
+  margin-left: 46%;
+  margin-right: 10px;
+}
+
+label {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.bookFilter {
+  display: flex;
+  justify-content:center;
+  margin-top:50px;
+}
+
+.skeletonLoader {
+  margin-top:10px;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.bookSorter {
+  display:flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.Container-dark {
+  background-color: #000;
+  color: white;
+}
+
+.Container-light {
+  background-color: #fff;
+  color: black;
+}
+
+.themeButton {
+  display: flex;
+  justify-content: right;
+}
