@@ -1,0 +1,13 @@
+body{
+    padding-top: 10%;
+    background-color:azure;
+}
+
+h3, p {
+    display: flex;
+    justify-content: center;
+}
+
+hr {
+    width: 40%;
+}
