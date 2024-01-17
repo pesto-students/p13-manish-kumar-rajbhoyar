@@ -14,7 +14,9 @@ function GiftForm() {
   // const giftData = useSelector(state => state.gifts?.data);
   // const status = useSelector(state => state.gifts?.status);
   // const error = useSelector(state => state.gifts?.error);
-  const {data, loading, error} = useSelector(state => state.gifts);
+
+  const {data, loading, error} = useSelector((state) => state.api);
+
 
   useEffect(() => {console.log('useeffect',loading, data)},[loading, data]);
 
@@ -93,7 +95,7 @@ function GiftForm() {
 
     };
   
-    if(loading) {return <h1>Loading...</h1>}
+
     // {console.log(giftsData, loading)}
   return (
     <div>
@@ -121,7 +123,7 @@ function GiftForm() {
         <button type="submit">{loading ? "Generating..." : "Generate"}</button>
         </form>
     </div>
-    {data && (
+    {data.length > 0 && (
         <div
           style={{
             display: "flex",

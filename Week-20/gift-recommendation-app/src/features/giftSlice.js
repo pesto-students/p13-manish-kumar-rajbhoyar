@@ -1,7 +1,7 @@
 import { createSlice } from '@reduxjs/toolkit';
 
 const giftSlice = createSlice({
-  name: 'gift',
+  name: 'gifts',
   initialState: {
     age: 0,
     gender: "",

@@ -22,15 +22,15 @@ export const fetchGifts = createAsyncThunk('gifts/fetchGifts', async (request) =
   });
 
   const apiSlice = createSlice({
-    name: 'gifts',
+    name: 'api',
     initialState: { data: [], loading: false, error: null },
     reducers: {
       
     },
-    extraReducers: builder => {
+    extraReducers: (builder) => {
       builder
     
-        .addCase(fetchGifts.pending, state => {
+        .addCase(fetchGifts.pending, (state) => {
           console.log('inside pending');
           state.loading = true;
         })
