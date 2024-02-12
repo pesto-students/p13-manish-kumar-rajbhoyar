@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "65c2d5e603da3348c8088650"
+  },
+  "title": "Kahaani",
+  "releaseYear": 2012,
+  "genre": "Mystery",
+  "director": [
+    "Sujoy Ghosh"
+  ],
+  "actors": [
+    "Vidya Balan"
+  ]
+}]

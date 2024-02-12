@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "65c2d50b03da3348c808864e"
+  },
+  "title": "Gangs of Wasseypur",
+  "releaseYear": 2012,
+  "genre": "Crime",
+  "director": [
+    "Anurag Kashyap"
+  ],
+  "actors": [
+    "Manoj Bajpayee",
+    "Nawazuddin Siddiqui",
+    "Piyush Mishra",
+    "Pankaj Tripathi",
+    "Rajkummar Rao"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2d5e603da3348c8088650"
+  },
+  "title": "Kahaani",
+  "releaseYear": 2012,
+  "genre": "Mystery",
+  "director": [
+    "Sujoy Ghosh"
+  ],
+  "actors": [
+    "Vidya Balan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2d6ce03da3348c8088653"
+  },
+  "title": "Barfi",
+  "releaseYear": 2012,
+  "genre": "Drama",
+  "director": [
+    "Anurag Basu"
+  ],
+  "actors": [
+    "Ranbir Kapoor",
+    "Priyanka Chopra",
+    "Ileana D’Cruz"
+  ]
+}]

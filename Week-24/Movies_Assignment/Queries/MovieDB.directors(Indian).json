@@ -1,0 +1,59 @@
+[{
+  "_id": {
+    "$oid": "65c2d78e03da3348c808865b"
+  },
+  "name": "Siddharth Anand",
+  "nationality": "Indian",
+  "moviesDirected": [
+    "Fighter",
+    "Pathan",
+    "War"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2d7f903da3348c808865c"
+  },
+  "name": "Priyadarshan",
+  "nationality": "Indian",
+  "moviesDirected": [
+    "De Dana Dan",
+    "Hera Pheri",
+    "Bhagam BHag"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2d83b03da3348c808865d"
+  },
+  "name": "Sanjat Leela Bhansali",
+  "nationality": "Indian",
+  "moviesDirected": [
+    "Ram-Leela",
+    "Bajirao Mastani",
+    "Devdas"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2d86d03da3348c808865e"
+  },
+  "name": "Anurag Kashyap",
+  "nationality": "Indian",
+  "moviesDirected": [
+    "Gangs of Wasseypur",
+    "Leo",
+    "Dev.D"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2d89503da3348c808865f"
+  },
+  "name": "Anurag Basu",
+  "nationality": "Indian",
+  "moviesDirected": [
+    "Barfi",
+    "Ludo"
+  ]
+}]

@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "65c2d23103da3348c808864b"
+  },
+  "title": "De Dana Dan",
+  "releaseYear": 2009,
+  "genre": "Comedy",
+  "director": [
+    "Priyadarshan"
+  ],
+  "actors": [
+    "Akshay Kumar",
+    "Suneil Shetty",
+    "Paresh Rawal"
+  ]
+}]

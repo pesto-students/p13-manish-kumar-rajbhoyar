@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "65c2d07f03da3348c8088649"
+  },
+  "title": "Fighter",
+  "releaseYear": 2024,
+  "genre": "Action",
+  "director": [
+    "Siddharth Anand"
+  ],
+  "actors": [
+    "Hrithik Roshan",
+    "Deepika Padukone",
+    "Anil Kapoor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2d1f703da3348c808864a"
+  },
+  "title": "Drishyam",
+  "releaseYear": 2015,
+  "genre": "Crime",
+  "director": [
+    "Nishikant Kamat"
+  ],
+  "actors": [
+    "Ajay Devgn",
+    "Tabu",
+    "Shriya Saran",
+    "Ishita Dutta"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2d23103da3348c808864b"
+  },
+  "title": "De Dana Dan",
+  "releaseYear": 2009,
+  "genre": "Comedy",
+  "director": [
+    "Priyadarshan"
+  ],
+  "actors": [
+    "Akshay Kumar",
+    "Suneil Shetty",
+    "Paresh Rawal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2d45f03da3348c808864d"
+  },
+  "title": "Ram-Leela",
+  "releaseYear": 2013,
+  "genre": "Romance",
+  "director": [
+    "Sanjay Leela Bhansali"
+  ],
+  "actors": [
+    "Ranveer Singh",
+    "Deepika Padukone"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2d50b03da3348c808864e"
+  },
+  "title": "Gangs of Wasseypur",
+  "releaseYear": 2012,
+  "genre": "Crime",
+  "director": [
+    "Anurag Kashyap"
+  ],
+  "actors": [
+    "Manoj Bajpayee",
+    "Nawazuddin Siddiqui",
+    "Piyush Mishra",
+    "Pankaj Tripathi",
+    "Rajkummar Rao"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2d56503da3348c808864f"
+  },
+  "title": "Piku",
+  "releaseYear": 2015,
+  "genre": "Drama",
+  "director": [
+    "Shoojit Sircar"
+  ],
+  "actors": [
+    "Deepika Padukone",
+    "Amitabh Bachchan",
+    "Irrfan Khan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2d5e603da3348c8088650"
+  },
+  "title": "Kahaani",
+  "releaseYear": 2012,
+  "genre": "Mystery",
+  "director": [
+    "Sujoy Ghosh"
+  ],
+  "actors": [
+    "Vidya Balan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2d63e03da3348c8088651"
+  },
+  "title": "Dangal",
+  "releaseYear": 2016,
+  "genre": "Sports",
+  "director": [
+    "Nitesh Tiwari"
+  ],
+  "actors": [
+    "Aamir Khan",
+    "Fatima Sana Sheikh",
+    "Sanya Malhotra"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2d68803da3348c8088652"
+  },
+  "title": "Tumbbad",
+  "releaseYear": 2018,
+  "genre": "Horror",
+  "director": [
+    "Rahi Anil Barve"
+  ],
+  "actors": [
+    "Sohum Shah",
+    "Jyoti Maishe",
+    "Anita Date",
+    "Deepak Damle"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2d6ce03da3348c8088653"
+  },
+  "title": "Barfi",
+  "releaseYear": 2012,
+  "genre": "Drama",
+  "director": [
+    "Anurag Basu"
+  ],
+  "actors": [
+    "Ranbir Kapoor",
+    "Priyanka Chopra",
+    "Ileana D’Cruz"
+  ]
+}]

@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "65c2d56503da3348c808864f"
+  },
+  "title": "Piku",
+  "releaseYear": 2015,
+  "genre": "Drama",
+  "director": [
+    "Shoojit Sircar"
+  ],
+  "actors": [
+    "Deepika Padukone",
+    "Amitabh Bachchan",
+    "Irrfan Khan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2d6ce03da3348c8088653"
+  },
+  "title": "Barfi",
+  "releaseYear": 2012,
+  "genre": "Drama",
+  "director": [
+    "Anurag Basu"
+  ],
+  "actors": [
+    "Ranbir Kapoor",
+    "Priyanka Chopra",
+    "Ileana D’Cruz"
+  ]
+}]

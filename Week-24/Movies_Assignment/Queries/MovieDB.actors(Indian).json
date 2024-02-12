@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "65c2d8bd03da3348c8088666"
+  },
+  "name": "Hrithik Roshan",
+  "nationality": "Indian",
+  "moviesActedIn": [
+    "Fighter",
+    "Bang Bang",
+    "War"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2d95203da3348c8088667"
+  },
+  "name": "Deepika Padukone",
+  "nationality": "Indian",
+  "moviesActedIn": [
+    "Fighter",
+    "Ram-Leela",
+    "Piku"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2d98303da3348c8088668"
+  },
+  "name": "Nawazuddin Siddiqui",
+  "nationality": "Indian",
+  "moviesActedIn": [
+    "Gangs of Wasseypur"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2d9c603da3348c8088669"
+  },
+  "name": "Akshay Kumar",
+  "nationality": "Indian",
+  "moviesActedIn": [
+    "Hera Pheri",
+    "De Dana Dan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2d9fb03da3348c808866a"
+  },
+  "name": "Aamir Khan",
+  "nationality": "Indian",
+  "moviesActedIn": [
+    "Dangal",
+    "3 Idiots",
+    "Taare Zameen Par"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2da1c03da3348c808866b"
+  },
+  "name": "Ajay Devgn",
+  "nationality": "Indian",
+  "moviesActedIn": [
+    "Drishyam"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2da3d03da3348c808866c"
+  },
+  "name": "Vidya Balan",
+  "nationality": "Indian",
+  "moviesActedIn": [
+    "Kahaani"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c2da5f03da3348c808866d"
+  },
+  "name": "Ranbir Kapoor",
+  "nationality": "Indian",
+  "moviesActedIn": [
+    "Barfi",
+    "Animal"
+  ]
+}]
